@@ -20,6 +20,9 @@ You can clone the github repo and try out the application.
 - make sure you have all the required libraries installed ⬇️.
 <br>
 
+### Screenshot : 
+![diff-eqn-in-2-var image](https://github.com/sumitmule/3d-visualizer-for-differential-eqn-in-2-variables/assets/111048440/6340ef39-7d1f-4f78-a202-cb75c390a378)
+
 ### Things implemented in this project :
 
 1. Visualization of differential equations in 2 variables
